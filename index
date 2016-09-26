@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+
+
+<!-- NEED VALIATION CODE FOR HTML -->
+
+
+<html>
+<title> The Town of Mountain Village </title>
+
+
+<head>
+
+  <!-- <link rel="stylesheet" type="text/css" href="reset.css"> -->
+
+  <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+
+
+
+
+<body>
+
+<div class= "header"> I am the head.
+
+  <div class="social-nav">
+    <a href="https://www.facebook.com/townofmountainvillage"> <i class="fa fa-envelope" title="contact us"></i></a>
+    <a href="https://www.facebook.com/townofmountainvillage"> <i class="fa fa-facebook-official"></i></a>
+    <a href="https://twitter.com/mountainvillage"> <i class="fa fa-twitter"></i></a>
+	  <a href="https://twitter.com/mountainvillage"> <i class="fa fa-phone"> (970) 728-8000</i></a>
+    <a href="https://twitter.com/mountainvillage"> <i class="fa fa-briefcase" title="careers"></i></a>
+   </div>
+
+  <div class="nav-links">
+    <a href="https://townofmountainvillage.com/residents/">Residents</a>
+    <a href="https://townofmountainvillage.com/residents/">Businesses</a>
+    <a href="https://townofmountainvillage.com/residents/">Governing</a>
+    <a href="https://townofmountainvillage.com/residents/">Recreating</a>
+    <a href="https://townofmountainvillage.com/residents/">Getting Around</a>
+    <a href="https://townofmountainvillage.com/residents/">Events</a>
+    <a href="https://townofmountainvillage.com/residents/">Green Living</a>
+  </div>
+  
+</div>
+
+
+
+
+  <div id="wrapper">
+
+    <NAV>
+
+    </NAV>
+
+    <hr>
+
+    <h2> WE ARE MOUNTAIN VILLAGE </h2>
+
+    <h4> 
+The Town of Mountain Village, located at 9,545 feet in Southwest Colorado 
+and just a stone&#8217s throw from Telluride, serves millions of people every year. 
+To welcome you here  and make your stay &#8208 short or long &#8208 enjoyable, please take a sneak peek into Mountain Village.
+</h4>
+
+    <div class="row-wrap">
+
+      <div class="row two-col">
+        <div>
+          <p> <img alt="" src="Residents1.jpg" />
+          </p>
+          <p> <a href="Residents.html">RESIDENTS</a>
+          </p>
+          <div>
+            <p>
+              The residents of Mountain Village are the glue of this community, and whether you have been here since the beginning or just moved here, we want to welcome you to this little slice of heaven in Colorado. We think you will agree that coming home is always
+              nice.
+            </p>
+          </div>
+        </div>
+
+        <div>
+          <p>
+            <img alt="" src="Businesses1.jpg" />
+          </p>
+          <p><a href="Businesses.html">BUSINESSES</a>
+          </p>
+          <div>
+            <p>
+              Business is at the fabric of any community, and opening a business has its challenges &#8208 and its rewards. To cut through the minutiae and ease some of the burden, we have complied some useful information that you can access at your convenience.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="row three-col">
+        <div>
+          <p>
+            <img alt="" src="Governing-cropped-1024x688.jpg" />
+          </p>
+          <p><a href="Businesses.html">GOVERNING</a>
+          </p>
+          <div>
+            <p>
+              Established as a home rule municipality March 10, 1995, Mountain Village is led by a democratically-elected governing body responsible for adopting policies with the intent to foster a proud community. It is the Governing section of this site where you
+              can find all pertinent documents related to running Mountain Village like a well-oiled machine.
+            </p>
+          </div>
+        </div>
+
+        <div>
+          <p>
+            <img alt="" src="Recreating-1024x683.jpg" />
+          </p>
+          <p><a href="Businesses.html">RECREATING</a>
+          </p>
+          <div>
+            <p>
+              Fortunately Mountain Village is situated in the heart of the San Juan mountains where the scenic allure is unparalleled. And what better way to relish in Mother Nature than to be in the thick of it every chance you get. With an abundance of winter and
+              summer recreational opportunities, our mountains provide a gateway for adventure.
+            </p>
+          </div>
+        </div>
+
+        <div>
+          <p>
+            <img alt="" src="Getting-Around.jpg" />
+          </p>
+          <p>
+            <a href="Businesses.html">GETTING AROUND</a>
+          </p>
+          <div>
+            <p>
+              One thing that sets Mountain Village apart – and keeps us at number one on Trip Advisor – is our gondola system. We provide this form of transportation to the public for free. Yes, free. If you prefer to navigate through Mountain Village by car, you have
+              a number of places to park within town limits, though we do recommend you retire those car keys most days.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+	
+	 <div>
+    <hr>
+  </div>
+  
+ 
+ 
+
+
+  <h2>The Latest Happenings </h2>
+  
+  <h3>For the skinny on all things Mountain Village, it is here will you will have access to press releases, the Mayor’s Minute, and guest blogs.
+</h3>
+
+  
+  	 <div>
+    <hr>
+  </div>
+  
+   <h2>UPCOMING EVENTS </h2>
+   
+    <div>
+    <hr>
+  </div>
+  
+  
+   <h2>THE DAILY COMMENT </h2>
+
+    <div>
+    <hr>
+  </div>
+   
+  <!--  This is the page wrapper below -->
+  </div>
+</body>
+</html>
